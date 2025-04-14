@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "hi enter yopu name"
-read n
-echo "your name is $n"
+read n2
+echo "your name is $n2"
